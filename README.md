@@ -1,2 +1,0 @@
-# CurveBallBowling
-Curve Ball Bowling
